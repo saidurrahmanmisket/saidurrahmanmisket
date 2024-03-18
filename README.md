@@ -44,13 +44,17 @@ Here are some ideas to get you started:
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](#)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)](#)
+[![PHP](https://img.shields.io/badge/PHP-%23117AC9.svg?logo=PHP&logoColor=white)](#)
+[![Laravel](https://img.shields.io/badge/Laravel-%23117AC9.svg?logo=Laravel&logoColor=white)](#)
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white)](#)
+[![Jquery](https://img.shields.io/badge/Jquery-%23117AC9.svg?logo=Jquery&logoColor=white)](#)
 
 
 ### 🛠 Tools:
 <p>
 <!--   <a href="#"><img alt="" src=""></a> -->
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-0078d7.svg?logo=PhpStorm&logoColor=white"></a>
   <a href="#"><img alt="" src="https://img.shields.io/badge/Sublime_text-%23575757.svg?logo=sublime-text&logoColor=important"></a>
  
 </p>
