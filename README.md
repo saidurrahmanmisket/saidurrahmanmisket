@@ -25,10 +25,10 @@ Here are some ideas to get you started:
   <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a>
 </p>
 
-- 🎓 I complete Diploma in Computer Science and Engineering CSE at [BPI](http://bpi.barisal.gov.bd/)
-- 👷‍♂️ I’m working on Web Desgine
-- 🧠 Currently learning Development
-- 📫 Mail me: [mdsaidurrahmanmisket@gmail.com](mailto:mdsaidurrahmanmisket@gmail.com)
+- 🎓 Complete Diploma in Computer Science and Technology (CST) at [BPI.](http://bpi.barisal.gov.bd/)
+- 👷‍♂️ Study on BSC in Computer Science and Engineering (CSE) at Southeast University.
+- 🧠  working on Web development.
+- 📫 Mail me: [mdsaidurrahmanmisket@gmail.com.](mailto:mdsaidurrahmanmisket@gmail.com)
 
 <!-- - 💬 Ask me about web -->
 ### 🔗 Connect with me:
